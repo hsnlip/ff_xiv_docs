@@ -1,8 +1,9 @@
-# 竜騎士 ![竜騎士アイコン。](../../.images/FFXIVIcons/FFXIVIcons%20JobCharactorIcons/H2xTb1YChci5CGloKUTT6UYwB8.png "竜騎士アイコン。")  
-[PvPアクション](https://jp.finalfantasyxiv.com/jobguide/dragoon/#pvp)  
+テンプレ。
+
+# <ジョブ名> ![](../../.images/FFXIVIcons/FFXIVIcons%20JobCharactorIcons/.png "")  
+[PvPアクション](https://jp.finalfantasyxiv.com/jobguide/<job>/#pvp)  
 
 # 雑評
-強い以外に言うことがない。  
 ## 強み
 ## 弱み
 # 運用
@@ -22,4 +23,3 @@
 ## オンサル・ハカイル（終節戦）
 ### 立ち位置
 ### 役割
-
